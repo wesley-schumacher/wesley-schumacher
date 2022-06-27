@@ -13,9 +13,7 @@ Electro-mechanical Systems Engineer @ Boom Supersonic
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/python-original.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/matlab-original.svg" width="36" height="36" alt="MATLAB" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/rust-plain.svg" width="36" height="36" alt="Rust" /></a>
 <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/c-original.svg" width="36" height="36" alt="C" /></a>
-<a href="https://javascript.info/js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/smanikha/smanikha/main/assets/javascript-original.svg" width="36" height="36" alt="C" /></a>
 </p>
 
 ### Devops
